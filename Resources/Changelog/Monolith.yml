@@ -13904,3 +13904,12 @@ Entries:
   id: 1538
   time: '2025-11-10T01:57:42.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2583
+- author: Avalon-Proto
+  changes:
+    - type: Tweak
+      message: >-
+        Camelot station has been looted too many times, and has fallen into
+        further disrepair
+  id: 1539
+  time: '2025-11-10T07:04:05.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2546
