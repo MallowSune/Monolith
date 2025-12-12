@@ -14846,3 +14846,10 @@ Entries:
   id: 1646
   time: '2025-12-11T12:45:26.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2786
+- author: core-mene
+  changes:
+    - type: Fix
+      message: Fixed part of stripping UI being hiden.
+  id: 1647
+  time: '2025-12-12T18:35:11.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2783
