@@ -14889,3 +14889,14 @@ Entries:
   id: 1651
   time: '2025-12-13T08:10:05.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2782
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: >-
+        Cortical borer hosts consuming sugar now blocks their borer from
+        attacking them
+    - type: Tweak
+      message: Cortical borers can now pilot VIM mechs!
+  id: 1652
+  time: '2025-12-14T08:53:41.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2797
