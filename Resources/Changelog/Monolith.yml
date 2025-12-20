@@ -15069,3 +15069,14 @@ Entries:
   id: 1670
   time: '2025-12-20T17:44:09.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2826
+- author: Helicaste
+  changes:
+    - type: Add
+      message: >-
+        Added NoSignalOnLink component to Airlocks, causing them to not
+        immediately trigger networks when linked.
+    - type: Add
+      message: Added signal network compatibility to most grenades. Happy saw trapping!
+  id: 1671
+  time: '2025-12-20T17:55:38.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2825
