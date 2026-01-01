@@ -15526,3 +15526,10 @@ Entries:
   id: 1722
   time: '2026-01-01T14:51:29.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2914
+- author: Arcticular1
+  changes:
+    - type: Tweak
+      message: Reduced faction playtime requirements.
+  id: 1723
+  time: '2026-01-01T14:54:22.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2907
