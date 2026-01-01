@@ -15479,3 +15479,16 @@ Entries:
   id: 1717
   time: '2026-01-01T14:08:39.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2911
+- author: Ilya246
+  changes:
+    - type: Fix
+      message: Projectiles now properly no longer have velocity falloff.
+    - type: Fix
+      message: Projectiles should no longer phase through armor.
+    - type: Fix
+      message: >-
+        Potentially fixed reported weirdness with projectiles inheriting grid
+        velocity.
+  id: 1718
+  time: '2026-01-01T14:13:20.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2919
