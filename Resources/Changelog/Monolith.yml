@@ -15768,3 +15768,10 @@ Entries:
   id: 1749
   time: '2026-01-04T21:50:02.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2932
+- author: EldritchPineapple
+  changes:
+    - type: Fix
+      message: the helios GV locker is now the correct prototype
+  id: 1750
+  time: '2026-01-05T08:13:39.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2949
