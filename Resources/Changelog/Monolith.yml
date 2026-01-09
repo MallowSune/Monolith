@@ -15947,3 +15947,10 @@ Entries:
   id: 1768
   time: '2026-01-09T00:57:18.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2985
+- author: NazrinNya
+  changes:
+    - type: Tweak
+      message: Caput has been remapped.
+  id: 1769
+  time: '2026-01-09T13:56:22.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2994
