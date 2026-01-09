@@ -15932,3 +15932,18 @@ Entries:
   id: 1767
   time: '2026-01-09T00:53:55.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2860
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: >-
+        Velocity threshold for collisions was increased such that Baegs vaporize
+        at above 35m/s instead of 14m/s. This is about 2 seconds worth of
+        acceleration.
+    - type: Tweak
+      message: >-
+        Collision kinetic energy consumption increased to compensate for our
+        overall increased speeds. Ramming should still be lethal as fuck and
+        only slightly nerfed.
+  id: 1768
+  time: '2026-01-09T00:57:18.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2985
