@@ -15916,3 +15916,12 @@ Entries:
   id: 1765
   time: '2026-01-08T20:53:51.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2941
+- author: thoughtlessuser
+  changes:
+    - type: Tweak
+      message: >-
+        Replaced the old Frontier Valet role with the Colossus sector service
+        worker role.
+  id: 1766
+  time: '2026-01-09T00:51:31.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2682
