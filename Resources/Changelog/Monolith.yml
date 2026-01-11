@@ -16063,3 +16063,12 @@ Entries:
   id: 1780
   time: '2026-01-11T19:50:32.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3012
+- author: Ilya246
+  changes:
+    - type: Add
+      message: Made more things repairable via SRD.
+    - type: Fix
+      message: Diagonal walls are now repairable via SRD.
+  id: 1781
+  time: '2026-01-11T19:52:11.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3009
