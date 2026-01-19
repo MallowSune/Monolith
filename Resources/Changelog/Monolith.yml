@@ -16267,3 +16267,12 @@ Entries:
   id: 1800
   time: '2026-01-18T20:31:43.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3060
+- author: thoughtlessuser
+  changes:
+    - type: Add
+      message: >-
+        The Dynasty has manufactured a new mothership; Motley Anne and its'
+        three fighter drones!
+  id: 1801
+  time: '2026-01-19T12:11:30.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2747
