@@ -16419,3 +16419,10 @@ Entries:
   id: 1817
   time: '2026-01-19T18:36:42.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3023
+- author: Ilya246
+  changes:
+    - type: Fix
+      message: Entity cleanup system made significantly more aggressive to combat lag.
+  id: 1818
+  time: '2026-01-20T12:04:50.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3081
