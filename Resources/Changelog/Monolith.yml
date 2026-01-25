@@ -16578,3 +16578,12 @@ Entries:
   id: 1836
   time: '2026-01-25T18:44:22.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3054
+- author: Helicaste
+  changes:
+    - type: Tweak
+      message: >-
+        Breaching Charges and Seismic Charges can no longer be instantly
+        detonated using signal linking.
+  id: 1837
+  time: '2026-01-25T18:52:51.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3079
