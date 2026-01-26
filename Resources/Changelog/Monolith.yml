@@ -16663,3 +16663,10 @@ Entries:
   id: 1845
   time: '2026-01-26T15:53:16.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3122
+- author: EldritchPineapple
+  changes:
+    - type: Tweak
+      message: Diagonaled the Shiv because i could
+  id: 1846
+  time: '2026-01-26T16:06:13.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2965
