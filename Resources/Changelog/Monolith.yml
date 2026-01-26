@@ -16683,3 +16683,20 @@ Entries:
   id: 1847
   time: '2026-01-26T16:06:53.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3095
+- author: Ilya246
+  changes:
+    - type: Tweak
+      message: >-
+        Ported grappling hook update from Wizden. Grappling hooks now obey
+        physics.
+    - type: Fix
+      message: Fixed a lot of grappling hook bugs (same Wizden port).
+    - type: Fix
+      message: Grappling hook now works at long range.
+    - type: Tweak
+      message: Grappling hook significantly buffed.
+    - type: Tweak
+      message: Grappling hook can now pull in mobs (including people) and crates.
+  id: 1848
+  time: '2026-01-26T16:18:51.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3124
