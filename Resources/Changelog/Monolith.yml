@@ -16759,3 +16759,14 @@ Entries:
   id: 1855
   time: '2026-01-31T22:15:58.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3156
+- author: tonotom1
+  changes:
+    - type: Fix
+      message: Directional glass can be repaired with welding tool again.
+    - type: Tweak
+      message: >-
+        IPC can now heal 9 radiation damage per nanite applicator use. Shock and
+        heat damage also buffed to 9 from 6.
+  id: 1856
+  time: '2026-01-31T22:18:54.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3152
