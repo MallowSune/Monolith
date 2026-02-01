@@ -16839,3 +16839,16 @@ Entries:
   id: 1863
   time: '2026-02-01T18:35:37.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3132
+- author: Ilya246
+  changes:
+    - type: Tweak
+      message: Significantly buffed outer reach drone loot.
+    - type: Tweak
+      message: T2 outer reach drone spawnrates decreased.
+    - type: Tweak
+      message: Scrap now has 5x less yield but is used 5x less.
+    - type: Tweak
+      message: Plastitanium wall plastitanium cos halved.
+  id: 1864
+  time: '2026-02-01T18:46:33.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3129
