@@ -16922,3 +16922,10 @@ Entries:
   id: 1873
   time: '2026-02-01T19:41:01.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3063
+- author: UnicornOnLSD
+  changes:
+    - type: Tweak
+      message: Radiation suit textures have been fully ported and are now unified.
+  id: 1874
+  time: '2026-02-01T19:50:36.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3149
