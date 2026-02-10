@@ -17030,3 +17030,10 @@ Entries:
   id: 1883
   time: '2026-02-09T19:57:47.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3185
+- author: NazrinNya
+  changes:
+    - type: Remove
+      message: Bell collar has been removed from the game
+  id: 1884
+  time: '2026-02-10T12:41:40.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3198
