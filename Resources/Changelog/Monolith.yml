@@ -17080,3 +17080,10 @@ Entries:
   id: 1887
   time: '2026-02-11T01:31:25.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3044
+- author: Kiithnaras
+  changes:
+    - type: Tweak
+      message: Updated CDM Comet interior and gun layout.
+  id: 1888
+  time: '2026-02-11T02:13:14.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3189
